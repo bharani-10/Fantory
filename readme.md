@@ -8,7 +8,7 @@ An interactive, visually appealing storytelling chatbot powered by **Gemini 2.0 
 
 ## 🚀 Live Demo
 
-🔗 [Click here to try the app]([https://your-app-link.streamlit.app](https://fantory.streamlit.app/))  
+🔗 [Click here to try the app](https://fantory.streamlit.app/)  
 *(Replace this with your actual Streamlit link)*
 
 ---
