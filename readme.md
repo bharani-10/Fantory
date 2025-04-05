@@ -2,21 +2,19 @@
 
 An interactive, visually appealing storytelling chatbot powered by **Gemini 2.0 Flash** that creates custom fantasy tales based on your input — all through a magical UI built with **Streamlit**!
 
-> �� Imagine a world where AI and imagination join forces to weave unforgettable fantasy stories — that's what we built!
-
----
-
-## 🚀 Live Demo
-
-🔗 [Click here to try the app](https://fantory.streamlit.app/)  
-*(Replace this with your actual Streamlit link)*
 
 ---
 
 ## 📸 Preview
 
-![App Screenshot](screenshot.png)  
-*(Include a screenshot or a GIF of your app in action here)*
+![Image](https://github.com/user-attachments/assets/69115d34-92c6-4689-9285-a6d0a799ba41)
+![Image](https://github.com/user-attachments/assets/d31ef948-95e8-4ee4-9e44-79a3d59105d8)
+
+
+---
+## 🚀 Live Demo
+
+🔗 [Click here to try the app](https://fantory.streamlit.app/)  
 
 ---
 
@@ -77,14 +75,9 @@ This project was built for a **Hackathon** to showcase how modern generative AI 
 
 ---
 
-## 📜 License
-
-MIT License
-
----
 
 ## 🙋‍♀️ Team
 
-- Your Name (Developer / Designer / Idea)
-- [Optional teammates or contributors]
+- Bharani R 
+- Rubicka T R
 
